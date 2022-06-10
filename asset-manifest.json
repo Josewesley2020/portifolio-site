@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.21fc118d.css",
-    "main.js": "./static/js/main.a3649932.js",
+    "main.css": "./static/css/main.e71b9b85.css",
+    "main.js": "./static/js/main.ecd61cf4.js",
     "static/js/787.be55e6d0.chunk.js": "./static/js/787.be55e6d0.chunk.js",
     "static/media/html.png": "./static/media/html.6133eaee42217f7cfd75.png",
     "static/media/Linkdin.png": "./static/media/Linkdin.cc33b6e7be3af34553a4.png",
     "static/media/Mask group.png": "./static/media/Mask group.277a16d5726a24f2618b.png",
     "static/media/DP900.png": "./static/media/DP900.4f3c0ce8256794cde848.png",
+    "static/media/X.png": "./static/media/X.d212129407f84a7e519a.png",
     "static/media/folder.png": "./static/media/folder.f3f2f111b3406f499d40.png",
     "static/media/cmd.png": "./static/media/cmd.f89ac3b1d26ac2e2246b.png",
     "static/media/github_PNG40.png": "./static/media/github_PNG40.1ff6d9646165b7f34af9.png",
     "static/media/youtube-logoe.png": "./static/media/youtube-logoe.9f857d16e230f453cae7.png",
-    "static/media/x.gif": "./static/media/x.598119685f6b8442aa87.gif",
     "index.html": "./index.html",
-    "main.21fc118d.css.map": "./static/css/main.21fc118d.css.map",
-    "main.a3649932.js.map": "./static/js/main.a3649932.js.map",
+    "main.e71b9b85.css.map": "./static/css/main.e71b9b85.css.map",
+    "main.ecd61cf4.js.map": "./static/js/main.ecd61cf4.js.map",
     "787.be55e6d0.chunk.js.map": "./static/js/787.be55e6d0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.21fc118d.css",
-    "static/js/main.a3649932.js"
+    "static/css/main.e71b9b85.css",
+    "static/js/main.ecd61cf4.js"
   ]
 }
